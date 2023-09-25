@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567708823188",
+    "project_id": "nordic-c1006",
+    "storage_bucket": "nordic-c1006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567708823188:android:335a2f24d84e4ce171ce81",
+        "android_client_info": {
+          "package_name": "no.gensolv.nordic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61vLPrKcpQOlapJNG3R4l5Kf4HIZlEDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
